@@ -1,6 +1,6 @@
 # UnderGrad homeworks
 > Under Construction
-'''Pyhthon
+```Python
 if a = 0:
 print(a)
-'''
+```
